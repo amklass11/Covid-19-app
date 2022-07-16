@@ -6,7 +6,7 @@
 
 ---
 ## Video Presentation
-(https://www.loom.com/share/8f32d2752b184da9ae05a6810dd2fd40)
+https://www.loom.com/share/eeaba57761c74b7da3480e4d52010a4b
 
 ## Live version
 
@@ -32,7 +32,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### `clone repository on your local device`
 
-copy this link to get HTTP url to clone Into your device `https://github.com/Fatima-hub333/React-Capstone.git`
+copy this link to get HTTP url to clone Into your device 'https://github.com/amklass11/Covid-19-app.git'
 
 
 ### Prerequisites
@@ -81,7 +81,7 @@ LinkedIn:[@AmkLAss](https://www.linkedin.com/in/amk-lass-521565196/)
 
 All contributions, issues and feature requests are welcome!
 
-1. Fork it (https://github.com/Fatima-hub333/React-Capstone.git)
+1. Fork it (https://github.com/amklass11/Covid-19-app.git)
 2. Create your working branch (git checkout -b [choose-a-name])
 3. Commit your changes (git commit -am 'what this commit will fix/add/improve')
 4. Push to the branch (git push origin [chosen-name])
@@ -90,8 +90,3 @@ All contributions, issues and feature requests are welcome!
 ## Show your support:
 
 Give a :star: if you liked the app
-
-# License
-
-This project is [MIT](LICENSE.md) licensed.
- 
